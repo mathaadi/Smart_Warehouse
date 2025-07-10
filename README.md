@@ -4,7 +4,9 @@ It models a dynamic grid warehouse, where autonomous robots pick and move invent
 
 ## 🚀 Tech Stack
 Backend & Core Logic: Python 3.10+ with custom Data Structures & Algorithms (Grid Graph, A*, DSU, Segment Tree, PQ).
+
 Frontend: Flask for real-time dashboards and visualizations.
+
 Database: SQLite for persisting orders, robots, and inventory states.
 
 ## ⚡ Key Features
